@@ -14,8 +14,10 @@ public class atividade3 {
       double salario = console.nextInt();
 
       double total = salario / minimo ;
-      System.out.println("O funcionario recebe: " + total + "salarios minimos");
+      System.out.println("O funcionario recebe: " + total + " salarios minimos");
     }
 
   }
 }
+
+//Funcionando
