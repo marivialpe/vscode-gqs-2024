@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 public class atividade4 {
   public static void main(String[] args) {
@@ -10,8 +11,10 @@ public class atividade4 {
         System.out.print("Informe o cateto b: ");
         double b = console.nextDouble();
 
+        DecimalFormat df = new DecimalFormat("#.##");
+
         double hipotenusa = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
-        System.out.format("A hipotenusa é: %.2f", hipotenusa);
+        System.out.format("A hipotenusa é: " + df.format(hipotenusa));
     }
   }
 }
