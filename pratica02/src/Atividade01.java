@@ -3,7 +3,7 @@ import java.util.Scanner;
 //Pratica 01
 //número 01
 
-public class atividade1 {
+public class Atividade01 {
   public static void main(String[] args) {
 
     try (Scanner num = new Scanner(System.in)) {
@@ -19,5 +19,3 @@ public class atividade1 {
 
   }
 }
-
-//Funcionando

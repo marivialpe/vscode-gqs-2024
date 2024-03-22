@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class atividade5 {
+public class Atividade05 {
   public static void main(String[] args) {
 
     try (Scanner console = new Scanner(System.in)) {

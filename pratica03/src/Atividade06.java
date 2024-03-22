@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade6 {
+public class Atividade06 {
 
     public static void main(String[] args) {
         try (Scanner console = new Scanner(System.in)) {
