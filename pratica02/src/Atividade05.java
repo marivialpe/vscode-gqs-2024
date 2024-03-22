@@ -21,3 +21,30 @@ public class Atividade05 {
   }  
 }
 //Funcionando
+
+
+/*
+import java.util.Scanner;
+import java.text.DecimalFormat;
+
+public class Main {
+  public static void main(String[] args) {
+
+    try (Scanner console = new Scanner(System.in)) {
+        System.out.print("Informe o raio da esfera: ");
+        double raio = console.nextDouble();
+
+        double comprimento = (2 * 3.14 * raio);
+        double area = Math.PI * Math.pow(raio, 2);
+        double volume = (4.0 / 3.0) * Math.PI * Math.pow(raio, 3);
+
+        DecimalFormat df = new DecimalFormat("#.##");
+
+        System.out.format("\nO comprimento da esfera é: %.2f", comprimento);
+        System.out.format("\nA área da esfera é:  %.2f", area);
+        System.out.format("\nO volume da esfera é:  %.2f", volume);
+    }
+  }  
+}
+//Funcionando
+*/
