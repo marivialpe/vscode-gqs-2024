@@ -1,0 +1,23 @@
+{
+    "nome": "Mariana Vilela",
+    "avatar": "https://avatars.githubusercontent.com/u/134511083?s=400&u=2c294043a36fd3c12eef08c2fdf8de57a6b3c576&v=4",
+    "redes-sociais": [
+        {
+            "titulo": "Twitter",
+            "url": "https://twitter.com/vilela_marih_"
+        },
+        {
+            "titulo": "GitHub",
+            "url": "https://github.com/marivialpe"
+        },
+        {
+            "titulo": "Instagram",
+            "url":"https://www.instagram.com/____marih___?igsh=ZWIyOWVydm9mNm5o"
+        },
+        {
+            "titulo":"LinkedIn",
+            "url":"https://www.linkedin.com/in/mariana-vilela-878b5a236/"
+        }
+
+    ]
+}
