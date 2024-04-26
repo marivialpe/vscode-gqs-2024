@@ -54,3 +54,4 @@ public class Atividade09 {
         System.out.println("Média da turma: " + String.format("%.2f", media));
     }
 }
+//Funcionando
