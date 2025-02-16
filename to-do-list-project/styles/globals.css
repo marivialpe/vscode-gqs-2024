@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: pink;
+}
+
+h1 {
+  color: rgba(51, 21, 21, 0.808);
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 600;
+  text-align: center;
+  
+
+}
